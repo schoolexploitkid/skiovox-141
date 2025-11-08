@@ -24,3 +24,6 @@ more will be added eventually.
 ## also check out [crosbreaker.dev](https://crosbreaker.dev)
 
 :3
+
+# Note:
+I am currently working on porting the skiovox helper extension to manifest version 3. when it is done I will publish it in the releases section of this repo
