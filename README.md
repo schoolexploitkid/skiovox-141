@@ -25,5 +25,7 @@ more will be added eventually.
 
 :3
 
-# Note:
-I am currently working on porting the skiovox helper extension to manifest version 3. when it is done I will publish it in the releases section of this repo
+# Helper extension
+You need to use [the new manifest v3 extension](https://github.com/AceOfSpades1061/skiovox-helper_mv3)
+### github.com is blocked :(
+Use `https://cdn.crosbreaker.dev/skiovox-helper_mv3-main.zip` instead, this is a complete copy of [the repo](https://github.com/AceOfSpades1061/skiovox-helper_mv3) rehosted.
