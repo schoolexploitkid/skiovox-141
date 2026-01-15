@@ -1,0 +1,42 @@
+Requirements:
+- Kiosk App 
+- A WiFi network/Connection 
+- Change DNS WiFi 
+- DNS/WiFi Logic
+
+Instructions:
+
+Method 1:
+1: Sign Out 
+2: go to the settings of your WiFi on the Sign-in screen (WiFi has to connect first to change DNS)
+3: Change DNS Settings to; (If Can't Change on Sign-in Screen do Method 2)
+First Box: 150.136.163.0 
+Second Box: 0.0.0.0 
+Third Box: 0.0.0.0
+fourth Box: 0.0.0.0
+4: Disconnect and Reconnect (Make sure WiFi says "Sign-In to Network")
+
+Method 2: 
+1: If Signed out, Sign in 
+2:go to the settings of your WiFi on the Sign-in screen (WiFi has to connect first to change DNS)
+3: Change DNS Settings to; (If Can't Change on Sign-in Screen do Method 2)
+First Box: 150.136.163.0 
+Second Box: 0.0.0.0 
+Third Box: 0.0.0.0
+fourth Box: 0.0.0.0
+4: Disconnect and Reconnect (Make sure WiFi says "Sign-In to Network")
+5: Sign Out
+
+Continue After Method: 
+1: Go to Any Kiosk App (bottom left corner of the sign-in screen)
+2: When on the Connect to network page click the WiFi with saved DNS 
+3: Click the Sign in to Network 
+4: When loaded click the “Webview link for tests” text
+
+To Open a chrome window: 
+1: go to any HTML editor
+2: HTML code: 
+<script>window.open("javascript:alert();");</script> 
+3: Click run
+
+After a chrome window is opened, go to chrome://network and change the dns back to normal by clicking render network select in the network select page.
