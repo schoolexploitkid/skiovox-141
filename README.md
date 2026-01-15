@@ -2,6 +2,7 @@
 ## The skiovox exploit for ChromeOS version 141
 
 if you know what you're doing then you can [Open a skiovox window](https://skiovox141.crosbreaker.dev/open) here.
+Use [Find a webview](https://github.com/schoolexploitkid/skiovox-141/blob/main/How%20to%20get%20a%20opened%20window.txt) to open a chrome tab for any kiosk app.
 
 # steps
 1. Find a **website kiosk** (one that *shows the url* while its loading.)
