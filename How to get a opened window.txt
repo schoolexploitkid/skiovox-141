@@ -40,3 +40,4 @@ To Open a chrome window:
 3: Click run
 
 After a chrome window is opened, go to chrome://network and change the dns back to normal by clicking render network select in the network select page.
+credit to 2pro12342
